@@ -1,2 +1,2 @@
 # LeonardoAguilar-TheGame-Uteca
-Proyecto 3er parcial, mi juego.
+Juego Final, AguilarLeonardo.
