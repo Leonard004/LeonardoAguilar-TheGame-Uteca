@@ -1,2 +1,2 @@
-# LeonardoAguilar-TheGame-Uteca
+# LeonardoAguilar-GameProyect-Uteca
 Juego Final, AguilarLeonardo.
